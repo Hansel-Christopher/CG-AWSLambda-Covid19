@@ -2,3 +2,6 @@ folder_dir.zip
 package
 
 *.csv
+
+
+.DS_Store
