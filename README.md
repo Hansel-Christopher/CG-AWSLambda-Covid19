@@ -1,0 +1,1 @@
+This is repo contains python script for a AWS lambda function that accesses Covid19API and stores queried data as .csv files in S3 buckets, created for the interview process with CodaGlobal
